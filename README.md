@@ -23,7 +23,7 @@
 2025 年 09 月最新
 
 - `C++/`  
-  - [C++ 1级](/jonaslgtm/gesp-exam-questions/tree/main/03-%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E3%80%90%E9%A2%98%E5%BA%93%E3%80%91/C%2B%2B/1%E7%BA%A7)
+  - [C++ 1级](/03-%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E3%80%90%E9%A2%98%E5%BA%93%E3%80%91/C%2B%2B/1%E7%BA%A7)
   - [C++ 2级](/gesp-exam-questions/tree/main/03-%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E3%80%90%E9%A2%98%E5%BA%93%E3%80%91/C%2B%2B/2%E7%BA%A7)
   - [C++ 3级](/jonaslgtm/gesp-exam-questions/tree/main/03-%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E3%80%90%E9%A2%98%E5%BA%93%E3%80%91/C%2B%2B/3%E7%BA%A7)
   - [C++ 4级](/jonaslgtm/gesp-exam-questions/tree/main/03-%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E3%80%90%E9%A2%98%E5%BA%93%E3%80%91/C%2B%2B/4%E7%BA%A7)
