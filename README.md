@@ -23,7 +23,7 @@
 
 ## 📚 项目结构
 
-<font style="color:#db654e;"> :fire: 当前更新至 2025 年 09 月。</font>
+<p style="color:#db654e;"> 🔥 当前更新至 2025 年 09 月。</p>
 
 - `大纲/`
   - [C++&Python 认证标准](/01-认证大纲/C%2B%2B%26Python%20认证标准.pdf)
